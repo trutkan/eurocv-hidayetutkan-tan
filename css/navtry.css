@@ -1,0 +1,82 @@
+/* CSS Document */
+body {
+	  background-color:#003366;
+  }
+  
+  .span9 {
+	  
+	 background-color:#cccccc;
+	 border-radius:5px;
+	 /*height:300px;*/
+	 -webkit-border-radius:5px;
+	 -moz-border-radius:5px;
+  }
+  .span3 {
+	  background-color:#cccc99;
+	  border-radius:5px;
+	 /*height:300px;*/
+	 -webkit-border-radius:5px;
+	 -moz-border-radius:5px;
+  }
+	  
+  
+  .span9 p{
+		padding-top:5px;
+		text-align:left;
+		margin-top:9px;
+		margin-left:20px;
+		
+		
+  }
+  
+  .span3 p{
+	    color:#003366;
+		padding-top:8px;
+		text-align:center;
+		font-weight:bold;
+	}
+	.row{
+		margin-bottom:10px;
+	}
+	
+#para1 {
+	padding-top:23px;
+}
+
+#para2 {
+	padding-top:15px;
+	color:#003366;
+}
+#para3 {
+	padding-top:24px;
+	color:#003366;
+}
+
+#inline {
+	margin-bottom:0;
+	margin-top:0;
+	padding-top:0;
+	padding-bottom:0;
+}
+
+.table{
+	margin-left:20px;	
+	margin-bottom:0;
+	padding-bottom:0;
+	margin-top:-8px;
+	}
+	
+.table td{
+	text-align:center;
+}
+.span7 {
+	margin-top:-8px;
+	}
+.navbar-nav>li {
+        float: none;
+}
+/*img {
+	margin-left:4px;
+}*/
+
+
