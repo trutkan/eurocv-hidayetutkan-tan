@@ -23,7 +23,7 @@ body {
   .span9 p{
 		padding-top:5px;
 		text-align:left;
-		margin-top:9px;
+		margin-top:5px;
 		margin-left:20px;
 		
 		
@@ -31,7 +31,7 @@ body {
   
   .span3 p{
 	    color:#003366;
-		padding-top:8px;
+		padding-top:9px;
 		text-align:center;
 		font-weight:bold;
 	}
@@ -40,7 +40,7 @@ body {
 	}
 	
 #para1 {
-	padding-top:23px;
+	padding-top:24px;
 }
 
 #para2 {
@@ -50,6 +50,10 @@ body {
 #para3 {
 	padding-top:24px;
 	color:#003366;
+}
+#para4 {
+	padding-top:24px;
+	color:#000000;
 }
 
 #inline {
@@ -63,7 +67,7 @@ body {
 	margin-left:20px;	
 	margin-bottom:0;
 	padding-bottom:0;
-	margin-top:-8px;
+	margin-top:-10px;
 	}
 	
 .table td{
@@ -74,6 +78,9 @@ body {
 	}
 .navbar-nav>li {
         float: none;
+}
+ul {
+	padding-top:12px;
 }
 /*img {
 	margin-left:4px;
